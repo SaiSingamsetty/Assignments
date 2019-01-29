@@ -2,7 +2,7 @@
 
 #### NOTE : Please run the project in Visual Studio for better understanding. 
 
-I have made a windows application to complete the task.
+I have made a windows application to complete the task. (Most of the logic would be similar even in ASP.NET)
 It will store all the images in "~/Images/"
 
   ##### Downloaded.jpg is the input file
